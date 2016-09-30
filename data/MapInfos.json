@@ -4,7 +4,7 @@ null,
 {"id":2,"expanded":true,"name":"Worldmap","order":1,"parentId":0,"scrollX":3718.6666666666665,"scrollY":3465.3333333333335},
 {"id":3,"expanded":false,"name":"Inn 1F","order":8,"parentId":1,"scrollX":1092,"scrollY":625.3333333333334},
 {"id":4,"expanded":true,"name":"Crossroad","order":4,"parentId":5,"scrollX":1092,"scrollY":625.3333333333334},
-{"id":5,"expanded":false,"name":"Beach","order":3,"parentId":1,"scrollX":1228.5,"scrollY":703.5},
+{"id":5,"expanded":true,"name":"Beach","order":3,"parentId":1,"scrollX":1092,"scrollY":625.3333333333334},
 {"id":6,"expanded":true,"name":"Forrest","order":5,"parentId":4,"scrollX":1092,"scrollY":625.3333333333334},
 {"id":7,"expanded":false,"name":"Jeff´s Cabin","order":6,"parentId":6,"scrollX":1092,"scrollY":625.3333333333334},
 {"id":8,"expanded":false,"name":"Blind Bo´s House","order":7,"parentId":4,"scrollX":1092,"scrollY":625.3333333333334}
