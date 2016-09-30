@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_1","characterIndex":2,"characterName":"Actor.3","classId":1,"equips":[5,0,2,3,0],"faceIndex":2,"faceName":"Actor.3","traits":[{"code":51,"dataId":9,"value":1},{"code":51,"dataId":7,"value":1},{"code":43,"dataId":11,"value":1},{"code":41,"dataId":2,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Stefan","nickname":"Stew","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"Nature","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Nature","traits":[],"initialLevel":1,"maxLevel":99,"name":"Dog","nickname":"","note":"","profile":""}
+]
